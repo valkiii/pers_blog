@@ -2,12 +2,14 @@ baseurl = "https://valkiii.github.io/"
 languageCode = "en-us"
 title = "Valerio's Blog"
 theme = "hugo-theme-casper"
-paginate = 2
+paginate = 5
+pluralizelisttitles = false
 Copyright = "VC 2020"
 canonifyurls = true
 [params]
 description = ["My projects.", "My thoughts.", "My recipes."]
-authorlocation = "authorlocation"
+authorlocation = "London, UK"
+authorbio = "Data Scientist, Open Source enthusiast"
 cover = "images/cover.jpg"
 ## save the image you want to use as background picture in directory "./static/images"author = "author name"(delete this line when editing)
 logo = "images/avatar.png"
@@ -26,26 +28,20 @@ pre = "<br />"
 url = "/"
 [[menu.main]]  # here are the buttons on the menu
 name = "About" # Button will display as "Home"
-weight = 60 # the weight decides the position of the button (higher or lower)
+weight = 10 # the weight decides the position of the button (higher or lower)
 identifier = "about"
 pre = "<br />"
 url = "/about"
 [[menu.main]]  # here are the buttons on the menu
 name = "Academia" # Button will display as "Home"
-weight = 60 # the weight decides the position of the button (higher or lower)
+weight = 80 # the weight decides the position of the button (higher or lower)
 identifier = "academia"
-pre = "<br />"
+pre = "<h3>Previously</h3>"
 url = "/academia"
-[[menu.main]]
-name = "Contact"
-weight = 0
-identifier = "contact" # this button will refer to a markdown file named "contact" in the content folder
-pre = "<br />"
-url = "/contact"
 [[menu.main]]
 name = "Blog"
 identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
-pre = "<br />"
+pre = "<h3>Currently</h3>"
 url = "/post"
 weight = 40
 [permalinks]

@@ -106,7 +106,7 @@ By drawing on large-scale online data we were able to construct and analyze the 
 
 -------------------------
 
-## Publications
+## Scientific Publications
 
 - [[1](https://www.sciencedirect.com/science/article/pii/S0378437114010334)] V. Ciotti, G. Bianconi, A. Capocci, F. Colaiori, and P. Panzarasa (2015). [Degree correlations in signed social networks](https://www.sciencedirect.com/science/article/pii/S0378437114010334). Physica A: Statistical Mechanics and its Applications 422: 25-39
 
@@ -116,8 +116,8 @@ By drawing on large-scale online data we were able to construct and analyze the 
 
 
 -------------------------
-## [List of Talks and Posters]({{< relref "/secret_projects/talks/_index.md" >}})
+## [List of Talks and Posters]({{< relref "/secret_projects/talks/index.md" >}})
 
 
 
-We may have met one another somewhere. [Here]({{< relref "/secret_projects/talks/_index.md" >}}) is the list of talks that I gave and posters that I presented.
+We may have met one another somewhere. [Here]({{< relref "/secret_projects/talks/index.md" >}}) is the list of talks that I gave and posters that I presented.

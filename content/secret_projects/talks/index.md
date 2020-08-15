@@ -1,6 +1,8 @@
 ---
 title: "Talks and Posters"
 date: 2019-03-23T17:47:27Z
+image: "images/talks/talks.jpg"
+
 draft: false
 ---
 
