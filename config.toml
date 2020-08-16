@@ -21,11 +21,11 @@ linkedinName = "valerio-ciotti-ph-d-668b191b"
 #instagramName = "your ins name"
 hideHUGOSupport = false
 [[menu.main]]  # here are the buttons on the menu
-name = "Home" # Button will display as "Home"
-weight = 100 # the weight decides the position of the button (higher or lower)
-identifier = "home"
-pre = "<br />"
-url = "/"
+#name = "Home" # Button will display as "Home"
+#weight = 100 # the weight decides the position of the button (higher or lower)
+#identifier = "home"
+#pre = "<br />"
+#url = "/"
 [[menu.main]]  # here are the buttons on the menu
 name = "About" # Button will display as "Home"
 weight = 10 # the weight decides the position of the button (higher or lower)

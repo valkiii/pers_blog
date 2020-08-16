@@ -21,6 +21,8 @@ draft: False
 
 
 
+
+
 My research was broadly concerned with collaborative social networks, the antecedents and consequences of group formation, and social capital. I am interested primarily in uncovering the network mechanisms that are responsible for forging, maintaining, and severing social relationships among individuals over time. I am interested in the structural foundations of economic performance, scientific success, and artistic creativity. In particular, some of my ongoing projects are aimed at investigating:
 
 -  how disciplinary similarity among scientists affects co-authorship patterns in scientific production;
@@ -87,18 +89,18 @@ During my master I focused on different area of modern physics, namely:
 
 
 
-### [Sentiment Analysis using Network Topology]({{< relref "/secret_projects/signed_networks/_index.md" >}})
+### [Sentiment Analysis using Network Topology]({{< relref "/post/signed_networks/index.md" >}})
 
 I have studied signed social networks, i.e., networks in which social relationships can have a positive (e.g., collaboration, friendship, trust) or a negative (e.g., competition, enmity, distrust) connotation.<img align="right 20%" class="special-img-class" style="width:40%" src="images/signed_network.png" />  In the complex network domain, relatively little attention has been devoted to the emergence of the association between global structural properties and the sign of the connection, chiefly because negative networks are difficult to collect and analyse. As a result, a number of question, still remain relatively unexplored. For example, do individuals who like (dislike) many others tend to like (dislike) each other, or do they like (dislike) those who like (dislike) only very few others? To address this problem, I have analysed two large data sets of two online social networks in which individuals express their trust (friendship) or distrust (enmity) towards each other. The results I have obtained help clarify the role of the sign of links.
 
 
 
-### [Did you remember to cite?]({{< relref "/secret_projects/citations/_index.md" >}})
+### [Did you remember to cite?]({{< relref "/post/citations/index.md" >}})
 
 Citation networks have been widely used to study the evolution of science through the lenses of the underlying patterns of knowledge flows among academic papers, authors, research sub-fields, <img align="20% left" class="special-img-class" style="width:50%" src="images/homophily.png" /> and scientific journals. In this paper, we focus on citation networks to cast light on the salience of homophily, namely the principle that similarity breeds connection, forhomophily knowledge transfer between papers. We propose a novel method for measuring the similarity between articles through the statistical validation of the overlap between their bibliographies. Results suggest that the probability of a citation made by one article to another is indeed an increasing function of the similarity between the two articles. Our study also enables us to uncover missing citations between pairs of highly related articles, and may thus help identify barriers to effective knowledge flows. By quantifying the proportion of missing citations, we conduct a comparative assessment of distinct journals and research sub-fields in terms of their ability to facilitate or impede the dissemination of knowledge. Our study has important implications for authors, editors and reviewers of scientific journals, as well as public preprint repositories, as it provides a procedure for recommending relevant yet missing references and properly integrating bibliographies of papers.
 
 
-### [Predicting successful startups]({{< relref "/secret_projects/stn/index.md" >}})
+### [Predicting successful startups]({{< relref "/post/stn/index.md" >}})
 
 By drawing on large-scale online data we were able to construct and analyze the time-varying worldwide network of professional relationships among start-ups. The nodes of this network represent companies, while the links model the flow of employees and the associated transfer of know-how across companies. We used network centrality measures to assess, at an early stage, the likelihood of the long-term positive economic performance of a start-up.
  <img align="20% left" class="special-img-class" style="width:50%" src="images/stn.png" />
@@ -116,8 +118,8 @@ By drawing on large-scale online data we were able to construct and analyze the 
 
 
 -------------------------
-## [List of Talks and Posters]({{< relref "/secret_projects/talks/index.md" >}})
+## [List of Talks and Posters]({{< relref "/post/talks/index.md" >}})
 
 
 
-We may have met one another somewhere. [Here]({{< relref "/secret_projects/talks/index.md" >}}) is the list of talks that I gave and posters that I presented.
+We may have met one another somewhere. [Here]({{< relref "/post/talks/index.md" >}}) is the list of talks that I gave and posters that I presented.
