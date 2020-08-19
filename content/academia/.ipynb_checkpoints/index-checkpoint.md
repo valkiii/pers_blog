@@ -21,6 +21,8 @@ draft: False
 
 
 
+
+
 My research was broadly concerned with collaborative social networks, the antecedents and consequences of group formation, and social capital. I am interested primarily in uncovering the network mechanisms that are responsible for forging, maintaining, and severing social relationships among individuals over time. I am interested in the structural foundations of economic performance, scientific success, and artistic creativity. In particular, some of my ongoing projects are aimed at investigating:
 
 -  how disciplinary similarity among scientists affects co-authorship patterns in scientific production;
@@ -108,13 +110,14 @@ By drawing on large-scale online data we were able to construct and analyze the 
 
 ## Scientific Publications
 
-- [[1](https://www.sciencedirect.com/science/article/pii/S0378437114010334)] V. Ciotti, G. Bianconi, A. Capocci, F. Colaiori, and P. Panzarasa (2015). [Degree correlations in signed social networks](https://www.sciencedirect.com/science/article/pii/S0378437114010334). Physica A: Statistical Mechanics and its Applications 422: 25-39
+ <font size="2"> - [[1](https://www.sciencedirect.com/science/article/pii/S0378437114010334)] V. Ciotti, G. Bianconi, A. Capocci, F. Colaiori, and P. Panzarasa (2015). [Degree correlations in signed social networks](https://www.sciencedirect.com/science/article/pii/S0378437114010334). Physica A: Statistical Mechanics and its Applications 422: 25-39 </font>
 
-- [[2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2)] V. Ciotti, M. Bonaventura, V. Nicosia, P. Panzarasa, V. Latora (2015). [Homophily and missing links in citation networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2). EPJ Data Science, 5(1), 1-14
+ <font size="2"> - [[2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2)] V. Ciotti, M. Bonaventura, V. Nicosia, P. Panzarasa, V. Latora (2015). [Homophily and missing links in citation networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2). EPJ Data Science, 5(1), 1-14 </font>
 
-- [[3](https://www.nature.com/articles/s41598-019-57209-w.pdf)] M. Bonaventura, V. Ciotti, P. Panzarasa, S. Liverani, L. Lacasa, V. Latora (2020). [Predicting success in the worldwide start-up network](https://www.nature.com/articles/s41598-019-57209-w.pdf) Scientific reports 10 (1), 1-6
+ <font size="2"> - [[3](https://www.nature.com/articles/s41598-019-57209-w.pdf)] M. Bonaventura, V. Ciotti, P. Panzarasa, S. Liverani, L. Lacasa, V. Latora (2020). [Predicting success in the worldwide start-up network](https://www.nature.com/articles/s41598-019-57209-w.pdf) Scientific reports 10 (1), 1-6 </font>
 
 
+    
 -------------------------
 ## [List of Talks and Posters]({{< relref "/post/talks/index.md" >}})
 

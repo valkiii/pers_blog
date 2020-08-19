@@ -94,7 +94,6 @@ During my master I focused on different area of modern physics, namely:
 I have studied signed social networks, i.e., networks in which social relationships can have a positive (e.g., collaboration, friendship, trust) or a negative (e.g., competition, enmity, distrust) connotation.<img align="right 20%" class="special-img-class" style="width:40%" src="images/signed_network.png" />  In the complex network domain, relatively little attention has been devoted to the emergence of the association between global structural properties and the sign of the connection, chiefly because negative networks are difficult to collect and analyse. As a result, a number of question, still remain relatively unexplored. For example, do individuals who like (dislike) many others tend to like (dislike) each other, or do they like (dislike) those who like (dislike) only very few others? To address this problem, I have analysed two large data sets of two online social networks in which individuals express their trust (friendship) or distrust (enmity) towards each other. The results I have obtained help clarify the role of the sign of links.
 
 
-
 ### [Did you remember to cite?]({{< relref "/post/citations/index.md" >}})
 
 Citation networks have been widely used to study the evolution of science through the lenses of the underlying patterns of knowledge flows among academic papers, authors, research sub-fields, <img align="20% left" class="special-img-class" style="width:50%" src="images/homophily.png" /> and scientific journals. In this paper, we focus on citation networks to cast light on the salience of homophily, namely the principle that similarity breeds connection, forhomophily knowledge transfer between papers. We propose a novel method for measuring the similarity between articles through the statistical validation of the overlap between their bibliographies. Results suggest that the probability of a citation made by one article to another is indeed an increasing function of the similarity between the two articles. Our study also enables us to uncover missing citations between pairs of highly related articles, and may thus help identify barriers to effective knowledge flows. By quantifying the proportion of missing citations, we conduct a comparative assessment of distinct journals and research sub-fields in terms of their ability to facilitate or impede the dissemination of knowledge. Our study has important implications for authors, editors and reviewers of scientific journals, as well as public preprint repositories, as it provides a procedure for recommending relevant yet missing references and properly integrating bibliographies of papers.
@@ -110,13 +109,14 @@ By drawing on large-scale online data we were able to construct and analyze the 
 
 ## Scientific Publications
 
-- [[1](https://www.sciencedirect.com/science/article/pii/S0378437114010334)] V. Ciotti, G. Bianconi, A. Capocci, F. Colaiori, and P. Panzarasa (2015). [Degree correlations in signed social networks](https://www.sciencedirect.com/science/article/pii/S0378437114010334). Physica A: Statistical Mechanics and its Applications 422: 25-39
+ <font size="2"> - [[1](https://www.sciencedirect.com/science/article/pii/S0378437114010334)] V. Ciotti, G. Bianconi, A. Capocci, F. Colaiori, and P. Panzarasa (2015). [Degree correlations in signed social networks](https://www.sciencedirect.com/science/article/pii/S0378437114010334). Physica A: Statistical Mechanics and its Applications 422: 25-39 </font>
 
-- [[2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2)] V. Ciotti, M. Bonaventura, V. Nicosia, P. Panzarasa, V. Latora (2015). [Homophily and missing links in citation networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2). EPJ Data Science, 5(1), 1-14
+ <font size="2"> - [[2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2)] V. Ciotti, M. Bonaventura, V. Nicosia, P. Panzarasa, V. Latora (2015). [Homophily and missing links in citation networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0068-2). EPJ Data Science, 5(1), 1-14 </font>
 
-- [[3](https://www.nature.com/articles/s41598-019-57209-w.pdf)] M. Bonaventura, V. Ciotti, P. Panzarasa, S. Liverani, L. Lacasa, V. Latora (2020). [Predicting success in the worldwide start-up network](https://www.nature.com/articles/s41598-019-57209-w.pdf) Scientific reports 10 (1), 1-6
+ <font size="2"> - [[3](https://www.nature.com/articles/s41598-019-57209-w.pdf)] M. Bonaventura, V. Ciotti, P. Panzarasa, S. Liverani, L. Lacasa, V. Latora (2020). [Predicting success in the worldwide start-up network](https://www.nature.com/articles/s41598-019-57209-w.pdf) Scientific reports 10 (1), 1-6 </font>
 
 
+    
 -------------------------
 ## [List of Talks and Posters]({{< relref "/post/talks/index.md" >}})
 
