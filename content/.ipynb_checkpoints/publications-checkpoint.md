@@ -22,9 +22,11 @@ draft: false
 
 
 
-## Interviews
+## Interviews & Press coverage
 
 - [[1](https://www.wired.co.uk/article/how-to-grow-startup)] C. Stokel-Walker (2019). [The secret to creating a successful startup is your contacts book](https://www.wired.co.uk/article/how-to-grow-startup). Wired UK
+- [[2](https://phys.org/news/2020-01-good-key-startup-success.html)] Phys.org (2020). [Good connections key to startup success](https://phys.org/news/2020-01-good-key-startup-success.html). 
+- [[3](https://www.qmul.ac.uk/media/news/2020/se/good-connections-key-to-startup-success.html)] Queen Mary University of London (2020). [Good connections key to startup success](https://www.qmul.ac.uk/media/news/2020/se/good-connections-key-to-startup-success.html).
 
 --------------------------------
 
